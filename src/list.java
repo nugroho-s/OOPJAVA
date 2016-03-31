@@ -1,0 +1,7 @@
+class list{
+	//atribut
+	
+	
+	//methods
+	
+}

@@ -1,0 +1,7 @@
+class makhluk{
+	//atribut
+	
+	
+	//methods
+	
+}
